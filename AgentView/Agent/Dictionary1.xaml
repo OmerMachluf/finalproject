@@ -1,0 +1,114 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:c="clr-namespace:Agent">
+    
+    <SolidColorBrush x:Key="TextColor" Color="#444"/>
+    <SolidColorBrush x:Key="TextColorDisabled" Color="#888"/>
+    <SolidColorBrush x:Key="TextBackColor" Color="#FFF"/>
+    <SolidColorBrush x:Key="BorderColor" Color="#97a8ac"/>
+    <SolidColorBrush x:Key="SolidBorderBrush" Color="#ddd" />
+
+    <LinearGradientBrush x:Key="LightBrush" StartPoint="0,0" EndPoint="0,1">
+        <GradientBrush.GradientStops>
+            <GradientStopCollection>
+                <GradientStop Color="#ddf" Offset="0.0"/>
+                <GradientStop Color="#fff" Offset="1.0"/>
+            </GradientStopCollection>
+        </GradientBrush.GradientStops>
+    </LinearGradientBrush>
+    
+    <!--Normal styled textbox-->
+    <Style x:Key="textBoxNormalStyle" TargetType="{x:Type TextBox}">
+        <Setter Property="FontFamily" Value="Arial"/>
+        <Setter Property="FontSize" Value="16"/>
+        <Setter Property="ForceCursor" Value="False"/>
+        <Setter Property="Foreground" Value="{StaticResource TextColor}"/>
+        <Setter Property="FontWeight" Value="Bold"/>
+        <Setter Property="HorizontalContentAlignment" Value="Left"/>
+        <Setter Property="VerticalContentAlignment" Value="Center"/>
+        <Setter Property="Padding" Value="3,0,3,0"/>
+        <Setter Property="Margin" Value="2"/>
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="{x:Type TextBox}">
+                    <Border Background="{StaticResource TextBackColor}" BorderBrush="{StaticResource BorderColor}" x:Name="Bd" CornerRadius="4" BorderThickness="2">
+                        <ScrollViewer Margin="0" x:Name="PART_ContentHost"/>
+                    </Border>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+
+    <!--Error-style textbox-->
+    <Style x:Key="textBoxErrorStyle" TargetType="{x:Type TextBox}">
+        <Setter Property="FontFamily" Value="Arial"/>
+        <Setter Property="FontSize" Value="16"/>
+        <Setter Property="ForceCursor" Value="False"/>
+        <Setter Property="Foreground" Value="{StaticResource TextColor}"/>
+        <Setter Property="FontWeight" Value="Bold"/>
+        <Setter Property="HorizontalContentAlignment" Value="Left"/>
+        <Setter Property="VerticalContentAlignment" Value="Center"/>
+        <Setter Property="Padding" Value="3,0,3,0"/>
+        <Setter Property="Margin" Value="2"/>
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="{x:Type TextBox}">
+                    <Grid Name="test">
+                        <Border Background="{StaticResource TextBackColor}" BorderBrush="#d99" x:Name="Bd" CornerRadius="4" BorderThickness="2">
+                            <ScrollViewer Margin="0" x:Name="PART_ContentHost"/>
+                        </Border>
+                        <Image Name="ErrorImage" Width="24" Height="24" Margin="0,0,4,0" Source="Images/error.png" HorizontalAlignment="Right"> <!--ToolTip="{Binding Path=ErrorMessage, ElementName=root"}-->
+                        </Image>
+                    </Grid>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+
+    <!--Info-style textbox-->
+    <Style x:Key="textBoxInfoStyle" TargetType="{x:Type TextBox}">
+        <Setter Property="FontFamily" Value="Arial"/>
+        <Setter Property="FontSize" Value="16"/>
+        <Setter Property="ForceCursor" Value="False"/>
+        <Setter Property="Foreground" Value="{StaticResource TextColor}"/>
+        <Setter Property="FontWeight" Value="Bold"/>
+        <Setter Property="HorizontalContentAlignment" Value="Left"/>
+        <Setter Property="VerticalContentAlignment" Value="Center"/>
+        <Setter Property="Padding" Value="3,0,3,0"/>
+        <Setter Property="Margin" Value="2"/>
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="{x:Type TextBox}">
+                    <Grid Name="test">
+                        <Border Background="{StaticResource TextBackColor}" BorderBrush="{StaticResource BorderColor}" x:Name="Bd" CornerRadius="4" BorderThickness="2">
+                            <ScrollViewer Margin="0" x:Name="PART_ContentHost"/>
+                        </Border>
+                        <Image Name="ErrorImage" Width="23" Height="23" Margin="0,0,5,0" Source="Images/info.gif" HorizontalAlignment="Right"> <!--ToolTip="{Binding Path=ErrorMessage, ElementName=root}"-->
+                        </Image>
+                    </Grid>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+
+    <!--A style for tooltips-->
+    <Style x:Key="{x:Type ToolTip}" TargetType="{x:Type ToolTip}">
+        <Setter Property="OverridesDefaultStyle" Value="true"/>
+        <Setter Property="HasDropShadow" Value="True"/>
+        <Setter Property="SnapsToDevicePixels" Value="true"/>
+        <Setter Property="FontSize" Value="12"/>
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="{x:Type ToolTip}">
+                    <Border Name="Border"
+                          Background="{StaticResource LightBrush}"
+                          BorderBrush="{StaticResource SolidBorderBrush}"
+                          BorderThickness="1">
+                        <ContentPresenter Margin="4" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+                    </Border>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+    
+</ResourceDictionary>

@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="EyeDenticaService.Consts" Collapsed="true">
+    <Position X="12.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAABAAAAAAABAgAIAAIAgAAAAAAAAIAAQAAABCAA=</HashCode>
+      <FileName>Consts.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EyeDenticaService.CreateProcessAsUserWrapper" Collapsed="true">
+    <Position X="12.25" Y="3.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="EyeDenticaService.CreateProcessAsUserWrapper.WTS_CONNECTSTATE_CLASS" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>CreateProcessAsUserWrapper.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Struct Name="EyeDenticaService.CreateProcessAsUserWrapper.WTS_SESSION_INFO" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>CreateProcessAsUserWrapper.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Struct Name="EyeDenticaService.CreateProcessAsUserWrapper.STARTUPINFO" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>CreateProcessAsUserWrapper.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Struct Name="EyeDenticaService.CreateProcessAsUserWrapper.PROCESS_INFORMATION" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>CreateProcessAsUserWrapper.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAQAEAAAABAAAAAAAACAAAAAAAAAAAAAlAAQAAAA=</HashCode>
+      <FileName>CreateProcessAsUserWrapper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EyeDenticaService.Data2Csv" Collapsed="true">
+    <Position X="17" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAACACAAEGAgAAAEACEAAEAAAgAgAgE=</HashCode>
+      <FileName>Data2Csv.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EyeDenticaService.DataService" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="15.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QgAAAEgAAAAIBAAACAAAUAAAAAAAAABAAAAAAAAEAAA=</HashCode>
+      <FileName>DataService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="EyeDenticaService.EyeDenticaService" Collapsed="true">
+    <Position X="14.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACIAAAAAACAgAAAAEACAAAACAAAAAABQAEACAACQAAA=</HashCode>
+      <FileName>EyeDenticaService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EyeDenticaService.ProcessHandler" Collapsed="true">
+    <Position X="12.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ProcessHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EyeDenticaService.Program">
+    <Position X="14.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EyeDenticaService.DB.DBManager" Collapsed="true">
+    <Position X="16" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAgBAAgAA=</HashCode>
+      <FileName>DB\DBManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EyeDenticaService.DB.MongoDBUtils" Collapsed="true">
+    <Position X="16" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EEAAAAEAAEAAAAAAAIAAAIAABAAAAAAQAAAAAAAAAAQ=</HashCode>
+      <FileName>DB\MongoDBUtils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EyeDenticaService.DB.PredictionObject" Collapsed="true">
+    <Position X="15.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAASAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DB\PredictionObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EyeDenticaService.DB.RecordObject" Collapsed="true">
+    <Position X="17" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAEACAAAAQA=</HashCode>
+      <FileName>DB\RecordObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EyeDenticaService.Properties.Settings" Collapsed="true">
+    <Position X="12.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAABAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="EyeDenticaService.IDataService" Collapsed="true">
+    <Position X="12.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IDataService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
