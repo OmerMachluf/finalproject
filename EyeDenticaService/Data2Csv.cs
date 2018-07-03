@@ -35,6 +35,8 @@ namespace EyeDenticaService
         private static long chunkStart = 0;
         private static long lastPress = 0;
         private static long lastDelete = 0;
+        private static int numberOfElseP = 0, numberOfElseH = 0, numberOfElseD = 0;
+        private static int numberOfP = 0, numberOfH = 0, numberOfD = 0;
         private static string classificationUserName;
         private static string fileName;
         public static List<String> USER = new List<String>();
@@ -48,11 +50,11 @@ namespace EyeDenticaService
         {
 
             // Init Global Variables
-            File.Delete("c:\\temp\\training.csv");
-            File.Copy("c:\\temp\\start.csv", "c:\\temp\\training.csv");
+            /*File.Delete("C:\\Users\\krist\\new\\temp\\training.csv");
+            File.Copy("C:\\Users\\krist\\new\\temp\\start.csv", "C:\\Users\\krist\\new\\temp\\training.csv");
 
-            File.WriteAllText("c:\\temp\\predict.csv", string.Format("{0},{1},{2},{3}\n", "P_Time", "H_Time", "H_D_Time", "user"));
-        }
+            File.WriteAllText("C:\\Users\\krist\\new\\temp\\predict.csv", string.Format("{0},{1},{2},{3}\n", "P_Time", "H_Time", "H_D_Time", "user"));
+        */}
 
 
         private static void writeChunk()
@@ -83,12 +85,12 @@ namespace EyeDenticaService
             else if (EyeDenticaMode == EYEDENTICA_MODE.LEARN)
             {
                 classificationUserName = "PcOwner";
-                fileName = "c:\\temp\\training.csv";
+                fileName = "C:\\Users\\krist\\new\\temp\\training.csv";
             }
             else
             {
                 classificationUserName = "NotPcOwner";
-                fileName = "c:\\temp\\predict.csv";
+                fileName = "C:\\Users\\krist\\new\\temp\\predict.csv";
             }
 
             //  Start
@@ -121,7 +123,13 @@ namespace EyeDenticaService
 
                                 // If pressing delta is less than max delta
                                 if (currPressingDeleteDelta < Consts.MAX_DELETING_DELTA)
+                                {
+                                    numberOfD++;
                                     lstHD.Add(currPressingDeleteDelta);
+                                }
+                                else
+                                    numberOfElseD++;
+
                             }
                             // If regular press
                             else
@@ -141,7 +149,12 @@ namespace EyeDenticaService
 
                                 // If less than max delta
                                 if (currPressingDelta < Consts.MAX_HOVERING_DELTA)
+                                {
                                     lstH.Add(currPressingDelta);
+                                    numberOfH++;
+                                }
+                                else
+                                    numberOfElseH++;
                             }
                         }
                     }
@@ -159,8 +172,13 @@ namespace EyeDenticaService
                             long currPressingPeriod = currActionTime - logger[currRawLine.KeyWord];
 
                             // If less than max delta
-                            //if (currPressingPeriod < Consts.MAX_PRESSING_DELTA)
+                            if (currPressingPeriod < Consts.MAX_PRESSING_DELTA)
+                            {
+                                numberOfP++;
                                 lstP.Add(currPressingPeriod);
+                            }
+                            else
+                                numberOfElseP++;
 
                             logger.Remove(currRawLine.KeyWord);
                         }

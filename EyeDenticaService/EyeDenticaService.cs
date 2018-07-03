@@ -32,13 +32,13 @@ namespace EyeDenticaService
         {
             try
             {
-                if (!File.Exists(Consts.PREDICTION_FILE_PATH))
+                /*if (!File.Exists(Consts.PREDICTION_FILE_PATH))
                 {
                     StreamWriter sw = new StreamWriter(Consts.PREDICTION_FILE_PATH, true);
                     sw.WriteLine("0");
-                }
+                }*/
 
-                File.WriteAllText(BasePath + "mode.csv", "indication\n-");
+                File.WriteAllText(BasePath + "mode.csv", "indication\n-\n");
             }
             catch(Exception e)
             {
@@ -53,36 +53,35 @@ namespace EyeDenticaService
             {
                 ProcessHandler.CheckAndStartProcess(Consts.AGENT_NAME, @Consts.AGENT_LOCATION + Consts.AGENT_NAME + ".exe");
                 ProcessHandler.CheckAndStartProcess(Consts.KEY_LOGGER_NAME, @Consts.KEY_LOGGER_LOCATION + Consts.KEY_LOGGER_NAME + ".exe");
-                Thread.Sleep(200);
+                Thread.Sleep(2000);
             }
         }
 
         public static void updatePrediction()
         {
             double dPrediction;
+            Thread.CurrentThread.Name = "PredictionUpdatesFromTextFile";
             while (true)
             {
                 try
                 {
-
                     dPrediction = double.Parse(File.ReadAllLines(BasePath + "prediction.txt")[0]) * 100;
                     DataService.PredictionRate = dPrediction;
-                    Thread.Sleep(200);
                 }
 
                 catch (Exception e)
                 {
                     Console.WriteLine("Break here");
                 }
+
+                Thread.Sleep(200);
             }
         }
 
         protected override void OnStart(string[] args)
         {
             base.OnStart(args);
-
             initializeFiles();
-
             watchdog = new Thread(new ThreadStart(Watchdog));
             watchdog.IsBackground = true;
             watchdog.Start();

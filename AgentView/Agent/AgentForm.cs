@@ -36,6 +36,7 @@ namespace Agent
 
         public static void CheckPercentage()
         {
+            Thread.CurrentThread.Name = "CheckPercentageForAgent";
             while (true)
             {
                 System.Random rnd = new System.Random();
@@ -110,13 +111,13 @@ namespace Agent
                 {
                     this.btnStartLearning.Text = "התחל בחינה";
                     Controller.ExecuteCommand((int)OperationType.StartBuilding);
-                    str = "indication\nTRUE";
+                    str = "indication\nTRUE\n";
                 }
                 else
                 {
                     this.btnStartLearning.Text = "הפעל למידה";
                     Controller.ExecuteCommand((int)OperationType.StartTesting);
-                    str =  "indication\nFALSE";
+                    str =  "indication\nFALSE\n";
                 }
 
                 File.WriteAllText(BasePath + "mode.csv", str);

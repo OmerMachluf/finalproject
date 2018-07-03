@@ -25,7 +25,7 @@ namespace EyeDenticaService
             Configuration config = ConfigurationManager.OpenExeConfiguration(ConfigurationUserLevel.None);
             ConfigurationManager.RefreshSection(config.AppSettings.SectionInformation.Name);
 
-            CHUNK_PERIOD = new TimeSpan(0, 0, int.Parse(ConfigurationManager.AppSettings["CHANK_PERIOD"])).Ticks;
+            CHUNK_PERIOD = new TimeSpan(0, 0, int.Parse(ConfigurationManager.AppSettings["CHUNK_PERIOD"])).Ticks;
             MAX_PRESSING_DELTA = new TimeSpan(0, 0, int.Parse(ConfigurationManager.AppSettings["MAX_PRESSING_DELTA"])).Ticks;
             MAX_HOVERING_DELTA = new TimeSpan(0, 0, int.Parse(ConfigurationManager.AppSettings["MAX_HOVERING_DELTA"])).Ticks;
             MAX_DELETING_DELTA = new TimeSpan(0, 0, int.Parse(ConfigurationManager.AppSettings["MAX_DELETING_DELTA"])).Ticks;
