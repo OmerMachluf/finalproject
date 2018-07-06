@@ -1,0 +1,192 @@
+C:\Users\Or\לימודים\פרוייקט סיכום\EyeDenticaService\AgentView\Agent\obj\Debug\Agent.csprojResolveAssemblyReference.cache
+C:\Users\Or\לימודים\פרוייקט סיכום\EyeDenticaService\AgentView\Agent\obj\Debug\Domain\SampleProgressDialog.baml
+C:\Users\Or\לימודים\פרוייקט סיכום\EyeDenticaService\AgentView\Agent\obj\Debug\Domain\SampleProgressDialog.g.cs
+C:\Users\Or\לימודים\פרוייקט סיכום\EyeDenticaService\AgentView\Agent\obj\Debug\EyeClock.g.cs
+C:\Users\Or\לימודים\פרוייקט סיכום\EyeDenticaService\AgentView\Agent\obj\Debug\MainWindow.g.cs
+C:\Users\Or\לימודים\פרוייקט סיכום\EyeDenticaService\AgentView\Agent\obj\Debug\App.g.cs
+C:\Users\Or\לימודים\פרוייקט סיכום\EyeDenticaService\AgentView\Agent\obj\Debug\Agent_MarkupCompile.cache
+C:\Users\Or\לימודים\פרוייקט סיכום\EyeDenticaService\AgentView\Agent\obj\Debug\Agent_MarkupCompile.lref
+C:\Users\Or\לימודים\פרוייקט סיכום\EyeDenticaService\AgentView\Agent\bin\Debug\Agent.exe.config
+C:\Users\Or\לימודים\פרוייקט סיכום\EyeDenticaService\AgentView\Agent\bin\Debug\Agent.exe
+C:\Users\Or\לימודים\פרוייקט סיכום\EyeDenticaService\AgentView\Agent\bin\Debug\Agent.pdb
+C:\Users\Or\לימודים\פרוייקט סיכום\EyeDenticaService\AgentView\Agent\bin\Debug\LiveCharts.dll
+C:\Users\Or\לימודים\פרוייקט סיכום\EyeDenticaService\AgentView\Agent\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Or\לימודים\פרוייקט סיכום\EyeDenticaService\AgentView\Agent\bin\Debug\MaterialDesignColors.dll
+C:\Users\Or\לימודים\פרוייקט סיכום\EyeDenticaService\AgentView\Agent\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Or\לימודים\פרוייקט סיכום\EyeDenticaService\AgentView\Agent\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Or\לימודים\פרוייקט סיכום\EyeDenticaService\AgentView\Agent\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Or\לימודים\פרוייקט סיכום\EyeDenticaService\AgentView\Agent\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Or\לימודים\פרוייקט סיכום\EyeDenticaService\AgentView\Agent\obj\Debug\Domain\Sample4Dialog.baml
+C:\Users\Or\לימודים\פרוייקט סיכום\EyeDenticaService\AgentView\Agent\obj\Debug\Domain\SampleMessageDialog.baml
+C:\Users\Or\לימודים\פרוייקט סיכום\EyeDenticaService\AgentView\Agent\obj\Debug\ActionMenu.baml
+C:\Users\Or\לימודים\פרוייקט סיכום\EyeDenticaService\AgentView\Agent\obj\Debug\AgentBoard.g.cs
+C:\Users\Or\לימודים\פרוייקט סיכום\EyeDenticaService\AgentView\Agent\obj\Debug\Charts\ConstantChangesChart.g.cs
+C:\Users\Or\לימודים\פרוייקט סיכום\EyeDenticaService\AgentView\Agent\obj\Debug\Charts\Gauge360.g.cs
+C:\Users\Or\לימודים\פרוייקט סיכום\EyeDenticaService\AgentView\Agent\obj\Debug\Charts\PieExample.g.cs
+C:\Users\Or\לימודים\פרוייקט סיכום\EyeDenticaService\AgentView\Agent\obj\Debug\Charts\Gauge180.g.cs
+C:\Users\Or\לימודים\פרוייקט סיכום\EyeDenticaService\AgentView\Agent\obj\Debug\Domain\Sample4Dialog.g.cs
+C:\Users\Or\לימודים\פרוייקט סיכום\EyeDenticaService\AgentView\Agent\obj\Debug\Domain\SampleDialog.g.cs
+C:\Users\Or\לימודים\פרוייקט סיכום\EyeDenticaService\AgentView\Agent\obj\Debug\Domain\SampleMessageDialog.g.cs
+C:\Users\Or\לימודים\פרוייקט סיכום\EyeDenticaService\AgentView\Agent\obj\Debug\ActionMenu.g.cs
+C:\Users\Or\לימודים\פרוייקט סיכום\EyeDenticaService\AgentView\Agent\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Or\לימודים\פרוייקט סיכום\EyeDenticaService\AgentView\Agent\obj\Debug\App.baml
+C:\Users\Or\לימודים\פרוייקט סיכום\EyeDenticaService\AgentView\Agent\obj\Debug\AgentBoard.baml
+C:\Users\Or\לימודים\פרוייקט סיכום\EyeDenticaService\AgentView\Agent\obj\Debug\Charts\ConstantChangesChart.baml
+C:\Users\Or\לימודים\פרוייקט סיכום\EyeDenticaService\AgentView\Agent\obj\Debug\Charts\Gauge360.baml
+C:\Users\Or\לימודים\פרוייקט סיכום\EyeDenticaService\AgentView\Agent\obj\Debug\Charts\PieExample.baml
+C:\Users\Or\לימודים\פרוייקט סיכום\EyeDenticaService\AgentView\Agent\obj\Debug\Charts\Gauge180.baml
+C:\Users\Or\לימודים\פרוייקט סיכום\EyeDenticaService\AgentView\Agent\obj\Debug\Dictionary1.baml
+C:\Users\Or\לימודים\פרוייקט סיכום\EyeDenticaService\AgentView\Agent\obj\Debug\Domain\SampleDialog.baml
+C:\Users\Or\לימודים\פרוייקט סיכום\EyeDenticaService\AgentView\Agent\obj\Debug\EyeClock.baml
+C:\Users\Or\לימודים\פרוייקט סיכום\EyeDenticaService\AgentView\Agent\obj\Debug\MainWindow.baml
+C:\Users\Or\לימודים\פרוייקט סיכום\EyeDenticaService\AgentView\Agent\obj\Debug\Agent.g.resources
+C:\Users\Or\לימודים\פרוייקט סיכום\EyeDenticaService\AgentView\Agent\obj\Debug\Agent.AgentForm.resources
+C:\Users\Or\לימודים\פרוייקט סיכום\EyeDenticaService\AgentView\Agent\obj\Debug\Agent.Properties.Resources.resources
+C:\Users\Or\לימודים\פרוייקט סיכום\EyeDenticaService\AgentView\Agent\obj\Debug\Agent.csproj.GenerateResource.Cache
+C:\Users\Or\לימודים\פרוייקט סיכום\EyeDenticaService\AgentView\Agent\obj\Debug\Agent.exe
+C:\Users\Or\לימודים\פרוייקט סיכום\EyeDenticaService\AgentView\Agent\obj\Debug\Agent.pdb
+C:\Users\krist\Downloads\EyeDenticaSourceCode\EyeDenticaService\AgentView\Agent\bin\Debug\Agent.exe.config
+C:\Users\krist\Downloads\EyeDenticaSourceCode\EyeDenticaService\AgentView\Agent\bin\Debug\Agent.exe
+C:\Users\krist\Downloads\EyeDenticaSourceCode\EyeDenticaService\AgentView\Agent\bin\Debug\Agent.pdb
+C:\Users\krist\Downloads\EyeDenticaSourceCode\EyeDenticaService\AgentView\Agent\bin\Debug\LiveCharts.dll
+C:\Users\krist\Downloads\EyeDenticaSourceCode\EyeDenticaService\AgentView\Agent\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\krist\Downloads\EyeDenticaSourceCode\EyeDenticaService\AgentView\Agent\bin\Debug\MaterialDesignColors.dll
+C:\Users\krist\Downloads\EyeDenticaSourceCode\EyeDenticaService\AgentView\Agent\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\krist\Downloads\EyeDenticaSourceCode\EyeDenticaService\AgentView\Agent\bin\Debug\MaterialDesignColors.pdb
+C:\Users\krist\Downloads\EyeDenticaSourceCode\EyeDenticaService\AgentView\Agent\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\krist\Downloads\EyeDenticaSourceCode\EyeDenticaService\AgentView\Agent\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\krist\Downloads\EyeDenticaSourceCode\EyeDenticaService\AgentView\Agent\obj\Debug\Agent.csprojAssemblyReference.cache
+C:\Users\krist\Downloads\EyeDenticaSourceCode\EyeDenticaService\AgentView\Agent\obj\Debug\Domain\Sample4Dialog.baml
+C:\Users\krist\Downloads\EyeDenticaSourceCode\EyeDenticaService\AgentView\Agent\obj\Debug\Domain\SampleMessageDialog.baml
+C:\Users\krist\Downloads\EyeDenticaSourceCode\EyeDenticaService\AgentView\Agent\obj\Debug\Domain\SampleProgressDialog.baml
+C:\Users\krist\Downloads\EyeDenticaSourceCode\EyeDenticaService\AgentView\Agent\obj\Debug\ActionMenu.baml
+C:\Users\krist\Downloads\EyeDenticaSourceCode\EyeDenticaService\AgentView\Agent\obj\Debug\AgentBoard.g.cs
+C:\Users\krist\Downloads\EyeDenticaSourceCode\EyeDenticaService\AgentView\Agent\obj\Debug\Charts\ConstantChangesChart.g.cs
+C:\Users\krist\Downloads\EyeDenticaSourceCode\EyeDenticaService\AgentView\Agent\obj\Debug\Charts\Gauge360.g.cs
+C:\Users\krist\Downloads\EyeDenticaSourceCode\EyeDenticaService\AgentView\Agent\obj\Debug\Charts\PieExample.g.cs
+C:\Users\krist\Downloads\EyeDenticaSourceCode\EyeDenticaService\AgentView\Agent\obj\Debug\Charts\Gauge180.g.cs
+C:\Users\krist\Downloads\EyeDenticaSourceCode\EyeDenticaService\AgentView\Agent\obj\Debug\Domain\Sample4Dialog.g.cs
+C:\Users\krist\Downloads\EyeDenticaSourceCode\EyeDenticaService\AgentView\Agent\obj\Debug\Domain\SampleDialog.g.cs
+C:\Users\krist\Downloads\EyeDenticaSourceCode\EyeDenticaService\AgentView\Agent\obj\Debug\Domain\SampleMessageDialog.g.cs
+C:\Users\krist\Downloads\EyeDenticaSourceCode\EyeDenticaService\AgentView\Agent\obj\Debug\Domain\SampleProgressDialog.g.cs
+C:\Users\krist\Downloads\EyeDenticaSourceCode\EyeDenticaService\AgentView\Agent\obj\Debug\EyeClock.g.cs
+C:\Users\krist\Downloads\EyeDenticaSourceCode\EyeDenticaService\AgentView\Agent\obj\Debug\ActionMenu.g.cs
+C:\Users\krist\Downloads\EyeDenticaSourceCode\EyeDenticaService\AgentView\Agent\obj\Debug\MainWindow.g.cs
+C:\Users\krist\Downloads\EyeDenticaSourceCode\EyeDenticaService\AgentView\Agent\obj\Debug\App.g.cs
+C:\Users\krist\Downloads\EyeDenticaSourceCode\EyeDenticaService\AgentView\Agent\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\krist\Downloads\EyeDenticaSourceCode\EyeDenticaService\AgentView\Agent\obj\Debug\Agent_MarkupCompile.cache
+C:\Users\krist\Downloads\EyeDenticaSourceCode\EyeDenticaService\AgentView\Agent\obj\Debug\Agent_MarkupCompile.lref
+C:\Users\krist\Downloads\EyeDenticaSourceCode\EyeDenticaService\AgentView\Agent\obj\Debug\App.baml
+C:\Users\krist\Downloads\EyeDenticaSourceCode\EyeDenticaService\AgentView\Agent\obj\Debug\AgentBoard.baml
+C:\Users\krist\Downloads\EyeDenticaSourceCode\EyeDenticaService\AgentView\Agent\obj\Debug\Charts\ConstantChangesChart.baml
+C:\Users\krist\Downloads\EyeDenticaSourceCode\EyeDenticaService\AgentView\Agent\obj\Debug\Charts\Gauge360.baml
+C:\Users\krist\Downloads\EyeDenticaSourceCode\EyeDenticaService\AgentView\Agent\obj\Debug\Charts\PieExample.baml
+C:\Users\krist\Downloads\EyeDenticaSourceCode\EyeDenticaService\AgentView\Agent\obj\Debug\Charts\Gauge180.baml
+C:\Users\krist\Downloads\EyeDenticaSourceCode\EyeDenticaService\AgentView\Agent\obj\Debug\Dictionary1.baml
+C:\Users\krist\Downloads\EyeDenticaSourceCode\EyeDenticaService\AgentView\Agent\obj\Debug\Domain\SampleDialog.baml
+C:\Users\krist\Downloads\EyeDenticaSourceCode\EyeDenticaService\AgentView\Agent\obj\Debug\EyeClock.baml
+C:\Users\krist\Downloads\EyeDenticaSourceCode\EyeDenticaService\AgentView\Agent\obj\Debug\MainWindow.baml
+C:\Users\krist\Downloads\EyeDenticaSourceCode\EyeDenticaService\AgentView\Agent\obj\Debug\Agent.g.resources
+C:\Users\krist\Downloads\EyeDenticaSourceCode\EyeDenticaService\AgentView\Agent\obj\Debug\Agent.AgentForm.resources
+C:\Users\krist\Downloads\EyeDenticaSourceCode\EyeDenticaService\AgentView\Agent\obj\Debug\Agent.Properties.Resources.resources
+C:\Users\krist\Downloads\EyeDenticaSourceCode\EyeDenticaService\AgentView\Agent\obj\Debug\Agent.csproj.GenerateResource.cache
+C:\Users\krist\Downloads\EyeDenticaSourceCode\EyeDenticaService\AgentView\Agent\obj\Debug\Agent.csproj.CoreCompileInputs.cache
+C:\Users\krist\Downloads\EyeDenticaSourceCode\EyeDenticaService\AgentView\Agent\obj\Debug\Agent.csproj.CopyComplete
+C:\Users\krist\Downloads\EyeDenticaSourceCode\EyeDenticaService\AgentView\Agent\obj\Debug\Agent.exe
+C:\Users\krist\Downloads\EyeDenticaSourceCode\EyeDenticaService\AgentView\Agent\obj\Debug\Agent.pdb
+C:\Users\lkazar\Desktop\Software\Study\finalproject\MILRA_Agent\Agent\bin\Debug\Agent.exe.config
+C:\Users\lkazar\Desktop\Software\Study\finalproject\MILRA_Agent\Agent\bin\Debug\Agent.exe
+C:\Users\lkazar\Desktop\Software\Study\finalproject\MILRA_Agent\Agent\bin\Debug\Agent.pdb
+C:\Users\lkazar\Desktop\Software\Study\finalproject\MILRA_Agent\Agent\bin\Debug\LiveCharts.dll
+C:\Users\lkazar\Desktop\Software\Study\finalproject\MILRA_Agent\Agent\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\lkazar\Desktop\Software\Study\finalproject\MILRA_Agent\Agent\bin\Debug\MaterialDesignColors.dll
+C:\Users\lkazar\Desktop\Software\Study\finalproject\MILRA_Agent\Agent\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\lkazar\Desktop\Software\Study\finalproject\MILRA_Agent\Agent\bin\Debug\MaterialDesignColors.pdb
+C:\Users\lkazar\Desktop\Software\Study\finalproject\MILRA_Agent\Agent\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\lkazar\Desktop\Software\Study\finalproject\MILRA_Agent\Agent\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\lkazar\Desktop\Software\Study\finalproject\MILRA_Agent\Agent\obj\Debug\Domain\Sample4Dialog.baml
+C:\Users\lkazar\Desktop\Software\Study\finalproject\MILRA_Agent\Agent\obj\Debug\Domain\SampleMessageDialog.baml
+C:\Users\lkazar\Desktop\Software\Study\finalproject\MILRA_Agent\Agent\obj\Debug\Domain\SampleProgressDialog.baml
+C:\Users\lkazar\Desktop\Software\Study\finalproject\MILRA_Agent\Agent\obj\Debug\ActionMenu.baml
+C:\Users\lkazar\Desktop\Software\Study\finalproject\MILRA_Agent\Agent\obj\Debug\AgentBoard.g.cs
+C:\Users\lkazar\Desktop\Software\Study\finalproject\MILRA_Agent\Agent\obj\Debug\Charts\ConstantChangesChart.g.cs
+C:\Users\lkazar\Desktop\Software\Study\finalproject\MILRA_Agent\Agent\obj\Debug\Charts\Gauge360.g.cs
+C:\Users\lkazar\Desktop\Software\Study\finalproject\MILRA_Agent\Agent\obj\Debug\Charts\PieExample.g.cs
+C:\Users\lkazar\Desktop\Software\Study\finalproject\MILRA_Agent\Agent\obj\Debug\Charts\Gauge180.g.cs
+C:\Users\lkazar\Desktop\Software\Study\finalproject\MILRA_Agent\Agent\obj\Debug\Domain\Sample4Dialog.g.cs
+C:\Users\lkazar\Desktop\Software\Study\finalproject\MILRA_Agent\Agent\obj\Debug\Domain\SampleDialog.g.cs
+C:\Users\lkazar\Desktop\Software\Study\finalproject\MILRA_Agent\Agent\obj\Debug\Domain\SampleMessageDialog.g.cs
+C:\Users\lkazar\Desktop\Software\Study\finalproject\MILRA_Agent\Agent\obj\Debug\Domain\SampleProgressDialog.g.cs
+C:\Users\lkazar\Desktop\Software\Study\finalproject\MILRA_Agent\Agent\obj\Debug\EyeClock.g.cs
+C:\Users\lkazar\Desktop\Software\Study\finalproject\MILRA_Agent\Agent\obj\Debug\ActionMenu.g.cs
+C:\Users\lkazar\Desktop\Software\Study\finalproject\MILRA_Agent\Agent\obj\Debug\MainWindow.g.cs
+C:\Users\lkazar\Desktop\Software\Study\finalproject\MILRA_Agent\Agent\obj\Debug\App.g.cs
+C:\Users\lkazar\Desktop\Software\Study\finalproject\MILRA_Agent\Agent\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\lkazar\Desktop\Software\Study\finalproject\MILRA_Agent\Agent\obj\Debug\Agent_MarkupCompile.cache
+C:\Users\lkazar\Desktop\Software\Study\finalproject\MILRA_Agent\Agent\obj\Debug\Agent_MarkupCompile.lref
+C:\Users\lkazar\Desktop\Software\Study\finalproject\MILRA_Agent\Agent\obj\Debug\App.baml
+C:\Users\lkazar\Desktop\Software\Study\finalproject\MILRA_Agent\Agent\obj\Debug\AgentBoard.baml
+C:\Users\lkazar\Desktop\Software\Study\finalproject\MILRA_Agent\Agent\obj\Debug\Charts\ConstantChangesChart.baml
+C:\Users\lkazar\Desktop\Software\Study\finalproject\MILRA_Agent\Agent\obj\Debug\Charts\Gauge360.baml
+C:\Users\lkazar\Desktop\Software\Study\finalproject\MILRA_Agent\Agent\obj\Debug\Charts\PieExample.baml
+C:\Users\lkazar\Desktop\Software\Study\finalproject\MILRA_Agent\Agent\obj\Debug\Charts\Gauge180.baml
+C:\Users\lkazar\Desktop\Software\Study\finalproject\MILRA_Agent\Agent\obj\Debug\Dictionary1.baml
+C:\Users\lkazar\Desktop\Software\Study\finalproject\MILRA_Agent\Agent\obj\Debug\Domain\SampleDialog.baml
+C:\Users\lkazar\Desktop\Software\Study\finalproject\MILRA_Agent\Agent\obj\Debug\EyeClock.baml
+C:\Users\lkazar\Desktop\Software\Study\finalproject\MILRA_Agent\Agent\obj\Debug\MainWindow.baml
+C:\Users\lkazar\Desktop\Software\Study\finalproject\MILRA_Agent\Agent\obj\Debug\Agent.g.resources
+C:\Users\lkazar\Desktop\Software\Study\finalproject\MILRA_Agent\Agent\obj\Debug\Agent.AgentForm.resources
+C:\Users\lkazar\Desktop\Software\Study\finalproject\MILRA_Agent\Agent\obj\Debug\Agent.Properties.Resources.resources
+C:\Users\lkazar\Desktop\Software\Study\finalproject\MILRA_Agent\Agent\obj\Debug\Agent.csproj.GenerateResource.Cache
+C:\Users\lkazar\Desktop\Software\Study\finalproject\MILRA_Agent\Agent\obj\Debug\Agent.exe
+C:\Users\lkazar\Desktop\Software\Study\finalproject\MILRA_Agent\Agent\obj\Debug\Agent.pdb
+C:\Users\lkazar\Desktop\Software\Study\finalproject\MILRA_Agent\Agent\obj\Debug\Agent.csprojResolveAssemblyReference.cache
+C:\Users\shayl\Desktop\finalproject\MILRA_Agent\Agent\bin\Debug\Agent.exe.config
+C:\Users\shayl\Desktop\finalproject\MILRA_Agent\Agent\bin\Debug\Agent.exe
+C:\Users\shayl\Desktop\finalproject\MILRA_Agent\Agent\bin\Debug\Agent.pdb
+C:\Users\shayl\Desktop\finalproject\MILRA_Agent\Agent\bin\Debug\LiveCharts.dll
+C:\Users\shayl\Desktop\finalproject\MILRA_Agent\Agent\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\shayl\Desktop\finalproject\MILRA_Agent\Agent\bin\Debug\MaterialDesignColors.dll
+C:\Users\shayl\Desktop\finalproject\MILRA_Agent\Agent\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\shayl\Desktop\finalproject\MILRA_Agent\Agent\bin\Debug\MaterialDesignColors.pdb
+C:\Users\shayl\Desktop\finalproject\MILRA_Agent\Agent\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\shayl\Desktop\finalproject\MILRA_Agent\Agent\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\shayl\Desktop\finalproject\MILRA_Agent\Agent\obj\Debug\Agent.csprojAssemblyReference.cache
+C:\Users\shayl\Desktop\finalproject\MILRA_Agent\Agent\obj\Debug\Domain\Sample4Dialog.baml
+C:\Users\shayl\Desktop\finalproject\MILRA_Agent\Agent\obj\Debug\Domain\SampleMessageDialog.baml
+C:\Users\shayl\Desktop\finalproject\MILRA_Agent\Agent\obj\Debug\Domain\SampleProgressDialog.baml
+C:\Users\shayl\Desktop\finalproject\MILRA_Agent\Agent\obj\Debug\ActionMenu.baml
+C:\Users\shayl\Desktop\finalproject\MILRA_Agent\Agent\obj\Debug\AgentBoard.g.cs
+C:\Users\shayl\Desktop\finalproject\MILRA_Agent\Agent\obj\Debug\Charts\ConstantChangesChart.g.cs
+C:\Users\shayl\Desktop\finalproject\MILRA_Agent\Agent\obj\Debug\Charts\Gauge360.g.cs
+C:\Users\shayl\Desktop\finalproject\MILRA_Agent\Agent\obj\Debug\Charts\PieExample.g.cs
+C:\Users\shayl\Desktop\finalproject\MILRA_Agent\Agent\obj\Debug\Charts\Gauge180.g.cs
+C:\Users\shayl\Desktop\finalproject\MILRA_Agent\Agent\obj\Debug\Domain\Sample4Dialog.g.cs
+C:\Users\shayl\Desktop\finalproject\MILRA_Agent\Agent\obj\Debug\Domain\SampleDialog.g.cs
+C:\Users\shayl\Desktop\finalproject\MILRA_Agent\Agent\obj\Debug\Domain\SampleMessageDialog.g.cs
+C:\Users\shayl\Desktop\finalproject\MILRA_Agent\Agent\obj\Debug\Domain\SampleProgressDialog.g.cs
+C:\Users\shayl\Desktop\finalproject\MILRA_Agent\Agent\obj\Debug\EyeClock.g.cs
+C:\Users\shayl\Desktop\finalproject\MILRA_Agent\Agent\obj\Debug\ActionMenu.g.cs
+C:\Users\shayl\Desktop\finalproject\MILRA_Agent\Agent\obj\Debug\MainWindow.g.cs
+C:\Users\shayl\Desktop\finalproject\MILRA_Agent\Agent\obj\Debug\App.g.cs
+C:\Users\shayl\Desktop\finalproject\MILRA_Agent\Agent\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\shayl\Desktop\finalproject\MILRA_Agent\Agent\obj\Debug\Agent_MarkupCompile.cache
+C:\Users\shayl\Desktop\finalproject\MILRA_Agent\Agent\obj\Debug\Agent_MarkupCompile.lref
+C:\Users\shayl\Desktop\finalproject\MILRA_Agent\Agent\obj\Debug\App.baml
+C:\Users\shayl\Desktop\finalproject\MILRA_Agent\Agent\obj\Debug\AgentBoard.baml
+C:\Users\shayl\Desktop\finalproject\MILRA_Agent\Agent\obj\Debug\Charts\ConstantChangesChart.baml
+C:\Users\shayl\Desktop\finalproject\MILRA_Agent\Agent\obj\Debug\Charts\Gauge360.baml
+C:\Users\shayl\Desktop\finalproject\MILRA_Agent\Agent\obj\Debug\Charts\PieExample.baml
+C:\Users\shayl\Desktop\finalproject\MILRA_Agent\Agent\obj\Debug\Charts\Gauge180.baml
+C:\Users\shayl\Desktop\finalproject\MILRA_Agent\Agent\obj\Debug\Dictionary1.baml
+C:\Users\shayl\Desktop\finalproject\MILRA_Agent\Agent\obj\Debug\Domain\SampleDialog.baml
+C:\Users\shayl\Desktop\finalproject\MILRA_Agent\Agent\obj\Debug\EyeClock.baml
+C:\Users\shayl\Desktop\finalproject\MILRA_Agent\Agent\obj\Debug\MainWindow.baml
+C:\Users\shayl\Desktop\finalproject\MILRA_Agent\Agent\obj\Debug\Agent.g.resources
+C:\Users\shayl\Desktop\finalproject\MILRA_Agent\Agent\obj\Debug\Agent.AgentForm.resources
+C:\Users\shayl\Desktop\finalproject\MILRA_Agent\Agent\obj\Debug\Agent.Properties.Resources.resources
+C:\Users\shayl\Desktop\finalproject\MILRA_Agent\Agent\obj\Debug\Agent.csproj.GenerateResource.cache
+C:\Users\shayl\Desktop\finalproject\MILRA_Agent\Agent\obj\Debug\Agent.csproj.CoreCompileInputs.cache
+C:\Users\shayl\Desktop\finalproject\MILRA_Agent\Agent\obj\Debug\Agent.csproj.CopyComplete
+C:\Users\shayl\Desktop\finalproject\MILRA_Agent\Agent\obj\Debug\Agent.exe
+C:\Users\shayl\Desktop\finalproject\MILRA_Agent\Agent\obj\Debug\Agent.pdb

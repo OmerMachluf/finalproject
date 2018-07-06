@@ -1,0 +1,34 @@
+﻿<UserControl x:Class="Wpf.CartesianChart.ConstantChangesChart"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Wpf.CartesianChart"
+             xmlns:lc="clr-namespace:LiveCharts.Wpf;assembly=LiveCharts.Wpf"
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="300" d:DataContext="{d:DesignInstance local:ConstantChangesChart}">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Button x:Name="runB" Grid.Row="1" Grid.Column="0" Height="30" Click="RunDataOnClick">
+            Run Prediction Flow
+        </Button>
+        <Button x:Name="stopB" Grid.Row="1" Grid.Column="1" Height="30" Click="StopDataOnClick" IsEnabled="False">
+            Pause Prediction Flow
+        </Button>
+        <!--set the animations speed property is at 100 miliseconds. AnimationsSpeed="0:0:0.3, and redice the timer interval, you will notice how the chart updates really fast"-->
+        <lc:CartesianChart Grid.Row="2" Grid.ColumnSpan="2" Series="{Binding SeriesCollection}" >
+            <lc:CartesianChart.AxisX>
+                <!--this hides an ugly effect--> 
+                <lc:Axis MinValue="5"></lc:Axis>
+            </lc:CartesianChart.AxisX>
+        </lc:CartesianChart>
+    </Grid>
+</UserControl>

@@ -1,0 +1,42 @@
+C:\Users\Or\לימודים\פרוייקט סיכום\EyeDenticaService\EyeDenticaService\bin\Release\EyeDenticaService.exe.config
+C:\Users\Or\לימודים\פרוייקט סיכום\EyeDenticaService\EyeDenticaService\bin\Release\EyeDenticaService.exe
+C:\Users\Or\לימודים\פרוייקט סיכום\EyeDenticaService\EyeDenticaService\bin\Release\EyeDenticaService.pdb
+C:\Users\Or\לימודים\פרוייקט סיכום\EyeDenticaService\EyeDenticaService\bin\Release\DynamicInterop.dll
+C:\Users\Or\לימודים\פרוייקט סיכום\EyeDenticaService\EyeDenticaService\bin\Release\MongoDB.Bson.dll
+C:\Users\Or\לימודים\פרוייקט סיכום\EyeDenticaService\EyeDenticaService\bin\Release\MongoDB.Driver.Core.dll
+C:\Users\Or\לימודים\פרוייקט סיכום\EyeDenticaService\EyeDenticaService\bin\Release\MongoDB.Driver.dll
+C:\Users\Or\לימודים\פרוייקט סיכום\EyeDenticaService\EyeDenticaService\bin\Release\RDotNet.dll
+C:\Users\Or\לימודים\פרוייקט סיכום\EyeDenticaService\EyeDenticaService\bin\Release\RDotNet.NativeLibrary.dll
+C:\Users\Or\לימודים\פרוייקט סיכום\EyeDenticaService\EyeDenticaService\bin\Release\DynamicInterop.xml
+C:\Users\Or\לימודים\פרוייקט סיכום\EyeDenticaService\EyeDenticaService\bin\Release\MongoDB.Bson.xml
+C:\Users\Or\לימודים\פרוייקט סיכום\EyeDenticaService\EyeDenticaService\bin\Release\MongoDB.Driver.xml
+C:\Users\Or\לימודים\פרוייקט סיכום\EyeDenticaService\EyeDenticaService\bin\Release\RDotNet.xml
+C:\Users\Or\לימודים\פרוייקט סיכום\EyeDenticaService\EyeDenticaService\bin\Release\RDotNet.NativeLibrary.xml
+C:\Users\Or\לימודים\פרוייקט סיכום\EyeDenticaService\EyeDenticaService\obj\Release\EyeDenticaService.csprojResolveAssemblyReference.cache
+C:\Users\Or\לימודים\פרוייקט סיכום\EyeDenticaService\EyeDenticaService\obj\Release\EyeDenticaService.EyeDenticaService.resources
+C:\Users\Or\לימודים\פרוייקט סיכום\EyeDenticaService\EyeDenticaService\obj\Release\EyeDenticaService.ProjectInstaller.resources
+C:\Users\Or\לימודים\פרוייקט סיכום\EyeDenticaService\EyeDenticaService\obj\Release\EyeDenticaService.csproj.GenerateResource.Cache
+C:\Users\Or\לימודים\פרוייקט סיכום\EyeDenticaService\EyeDenticaService\obj\Release\EyeDenticaService.exe
+C:\Users\Or\לימודים\פרוייקט סיכום\EyeDenticaService\EyeDenticaService\obj\Release\EyeDenticaService.pdb
+C:\Users\krist\Downloads\EyeDenticaSourceCode\EyeDenticaService\EyeDenticaService\bin\Release\EyeDenticaService.exe.config
+C:\Users\krist\Downloads\EyeDenticaSourceCode\EyeDenticaService\EyeDenticaService\bin\Release\EyeDenticaService.exe
+C:\Users\krist\Downloads\EyeDenticaSourceCode\EyeDenticaService\EyeDenticaService\bin\Release\EyeDenticaService.pdb
+C:\Users\krist\Downloads\EyeDenticaSourceCode\EyeDenticaService\EyeDenticaService\bin\Release\DynamicInterop.dll
+C:\Users\krist\Downloads\EyeDenticaSourceCode\EyeDenticaService\EyeDenticaService\bin\Release\MongoDB.Bson.dll
+C:\Users\krist\Downloads\EyeDenticaSourceCode\EyeDenticaService\EyeDenticaService\bin\Release\MongoDB.Driver.Core.dll
+C:\Users\krist\Downloads\EyeDenticaSourceCode\EyeDenticaService\EyeDenticaService\bin\Release\MongoDB.Driver.dll
+C:\Users\krist\Downloads\EyeDenticaSourceCode\EyeDenticaService\EyeDenticaService\bin\Release\RDotNet.dll
+C:\Users\krist\Downloads\EyeDenticaSourceCode\EyeDenticaService\EyeDenticaService\bin\Release\RDotNet.NativeLibrary.dll
+C:\Users\krist\Downloads\EyeDenticaSourceCode\EyeDenticaService\EyeDenticaService\bin\Release\DynamicInterop.xml
+C:\Users\krist\Downloads\EyeDenticaSourceCode\EyeDenticaService\EyeDenticaService\bin\Release\MongoDB.Bson.xml
+C:\Users\krist\Downloads\EyeDenticaSourceCode\EyeDenticaService\EyeDenticaService\bin\Release\MongoDB.Driver.xml
+C:\Users\krist\Downloads\EyeDenticaSourceCode\EyeDenticaService\EyeDenticaService\bin\Release\RDotNet.xml
+C:\Users\krist\Downloads\EyeDenticaSourceCode\EyeDenticaService\EyeDenticaService\bin\Release\RDotNet.NativeLibrary.xml
+C:\Users\krist\Downloads\EyeDenticaSourceCode\EyeDenticaService\EyeDenticaService\obj\Release\EyeDenticaService.EyeDenticaService.resources
+C:\Users\krist\Downloads\EyeDenticaSourceCode\EyeDenticaService\EyeDenticaService\obj\Release\EyeDenticaService.ProjectInstaller.resources
+C:\Users\krist\Downloads\EyeDenticaSourceCode\EyeDenticaService\EyeDenticaService\obj\Release\EyeDenticaService.csproj.GenerateResource.cache
+C:\Users\krist\Downloads\EyeDenticaSourceCode\EyeDenticaService\EyeDenticaService\obj\Release\EyeDenticaService.csproj.CoreCompileInputs.cache
+C:\Users\krist\Downloads\EyeDenticaSourceCode\EyeDenticaService\EyeDenticaService\obj\Release\EyeDenticaService.csproj.CopyComplete
+C:\Users\krist\Downloads\EyeDenticaSourceCode\EyeDenticaService\EyeDenticaService\obj\Release\EyeDenticaService.exe
+C:\Users\krist\Downloads\EyeDenticaSourceCode\EyeDenticaService\EyeDenticaService\obj\Release\EyeDenticaService.pdb
+C:\Users\krist\Downloads\EyeDenticaSourceCode\EyeDenticaService\EyeDenticaService\obj\Release\EyeDenticaService.csprojAssemblyReference.cache
