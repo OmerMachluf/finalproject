@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using System.Data.SqlClient;
 using System.Data;
 using System.IO;
+using MongoDB.Bson;
 
 namespace EyeDenticaService.DB
 {
@@ -40,7 +41,7 @@ namespace EyeDenticaService.DB
           //      @"AttachDbFilename = C:\mf\projectTfs\EyeDentica\EyeDenticaService\EyeDenticaService\DB\EyeDenticaDB.mdf;";
         }
 
-        public List<RecordObject> getRecordsAfter(long time)
+        public async Task<List<RecordObject>> getRecordsAfterAsync(long time)
         {
 
             List<RecordObject> records = new List<RecordObject>();
@@ -92,9 +93,9 @@ namespace EyeDenticaService.DB
             //    Console.WriteLine(e.ToString());
             //}
 
-            records = MongoDBUtils.retriveRecordsAfter(time);
+            records = await MongoDBUtils.RetriveRecordsAfter(time);
             return records;
-        }
+            }
 
         internal List<PredictionObject> getPredictionsAfter(long time)
         {

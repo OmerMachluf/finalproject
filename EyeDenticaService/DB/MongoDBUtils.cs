@@ -5,6 +5,7 @@ using MongoDB.Bson.Serialization;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Threading.Tasks;
 
 namespace EyeDenticaService.DB
 {
@@ -52,16 +53,34 @@ namespace EyeDenticaService.DB
 
 
 
-        public static List<RecordObject> retriveRecordsAfter(long time)
+        public async static Task<List<RecordObject>> RetriveRecordsAfter(long time)
         {
             List<RecordObject> recordsToReturn = new List<RecordObject>();
-            
-            var filter = Builders<BsonDocument>.Filter.Gt("Time", time);
+            MongoDBUtils.RecordsCollection = Database.GetCollection<BsonDocument>("Records");
+            var builder = Builders<BsonDocument>.Filter;
+            var filter = builder.Gt("Time", time);
+            long timeO = 0;
+            string operation = string.Empty, key = string.Empty, window = string.Empty;
             var sort = Builders<BsonDocument>.Sort.Ascending("Time");
-            var result = MongoDBUtils.RecordsCollection.Find(filter).Sort(sort).ToListAsync();
+            var result = await MongoDBUtils.RecordsCollection.Find(filter).Sort(sort).ToListAsync();
+            foreach (BsonDocument res in result)
+            {
+                foreach (BsonElement el in res)
+                {
+                    if (el.Name.Equals("Time"))
+                        timeO = (long)el.Value;
+                    else if (el.Name.Equals("Operation"))
+                        operation = (string)el.Value;
+                    else if (el.Name.Equals("Key"))
+                        key = (string)el.Value;
+                    else if (el.Name.Equals("Window"))
+                        window = (string)el.Value;
+                }
 
+                RecordObject obj = new RecordObject(timeO, operation, key, window);
+                recordsToReturn.Add(obj);
+            }
             return recordsToReturn;
-
         }
 
         public static void injectRecord(RecordObject rec)

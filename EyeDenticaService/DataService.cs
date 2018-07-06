@@ -23,17 +23,18 @@ namespace EyeDenticaService
             dbManager = new DBManager();
         }
 
-        public List<RecordObject> getNewRecords()
+        public async Task<List<RecordObject>> getNewRecords()
         {
-            List<RecordObject> listToReturn;
-            lock (recordsLocker)
+            if (recordsLastTImeStamp == 0)
             {
-                listToReturn = dbManager.getRecordsAfter(recordsLastTImeStamp);
+                recordsLastTImeStamp = DateTime.Now.Ticks;
+            }
 
-                if (listToReturn.Count > 0)
-                {
-                    recordsLastTImeStamp = listToReturn[listToReturn.Count - 1].Time;
-                }
+            List<RecordObject> listToReturn = await dbManager.getRecordsAfterAsync(recordsLastTImeStamp);
+
+            if (listToReturn.Count > 0)
+            {
+                recordsLastTImeStamp = listToReturn[listToReturn.Count - 1].Time;
             }
 
             return listToReturn;
@@ -62,8 +63,6 @@ namespace EyeDenticaService
             {
                 dbManager.insertRecord(recObj);
             }
-
-            Data2Csv.processLogs(new List<RecordObject>() { recObj });
         }
 
         public void updatePrediction(double pred)

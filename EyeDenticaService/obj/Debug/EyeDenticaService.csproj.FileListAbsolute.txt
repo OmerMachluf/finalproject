@@ -40,3 +40,11 @@ C:\Users\krist\Downloads\EyeDenticaSourceCode\EyeDenticaService\EyeDenticaServic
 C:\Users\krist\Downloads\EyeDenticaSourceCode\EyeDenticaService\EyeDenticaService\obj\Debug\EyeDenticaService.exe
 C:\Users\krist\Downloads\EyeDenticaSourceCode\EyeDenticaService\EyeDenticaService\obj\Debug\EyeDenticaService.pdb
 C:\Users\krist\Downloads\EyeDenticaSourceCode\EyeDenticaService\EyeDenticaService\obj\Debug\EyeDenticaService.csprojAssemblyReference.cache
+C:\Users\krist\Downloads\EyeDenticaSourceCode\EyeDenticaService\EyeDenticaService\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\krist\Downloads\EyeDenticaSourceCode\EyeDenticaService\EyeDenticaService\bin\Debug\ExcelDataReader.dll
+C:\Users\krist\Downloads\EyeDenticaSourceCode\EyeDenticaService\EyeDenticaService\bin\Debug\LINQtoCSV.dll
+C:\Users\krist\Downloads\EyeDenticaSourceCode\EyeDenticaService\EyeDenticaService\bin\Debug\LINQtoCSV.Excel.dll
+C:\Users\krist\Downloads\EyeDenticaSourceCode\EyeDenticaService\EyeDenticaService\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\krist\Downloads\EyeDenticaSourceCode\EyeDenticaService\EyeDenticaService\bin\Debug\System.IO.Packaging.dll
+C:\Users\krist\Downloads\EyeDenticaSourceCode\EyeDenticaService\EyeDenticaService\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\krist\Downloads\EyeDenticaSourceCode\EyeDenticaService\EyeDenticaService\bin\Debug\ExcelDataReader.xml

@@ -11,9 +11,10 @@ namespace EyeDenticaService
 {
     public partial class EyeDenticaService : ServiceBase
     {
+        DataService dataService;
         public ServiceHost dataServiceHost = null;
         public const string BasePath = @"C:\Users\krist\new\temp\";
-        Thread watchdog;
+        Thread watchdog, logsProcessor;
 
         enum Commands
         {
@@ -82,14 +83,20 @@ namespace EyeDenticaService
         {
             base.OnStart(args);
             initializeFiles();
+            
             watchdog = new Thread(new ThreadStart(Watchdog));
             watchdog.IsBackground = true;
             watchdog.Start();
+            if (logsProcessor==null)
+            {
+                logsProcessor = new Thread(new ThreadStart(Data2Csv.processLogs));
+                logsProcessor.Start();
+            }
 
             // Update prediction funftion
             new Thread(updatePrediction).Start();
 
-            RScriptRunner.StartRInstances_SeparateProcess(BasePath + "better.R");
+            PythonScriptRunner.StartRInstances_SeparateProcess(BasePath + "Mlscript.py");
 
             initDataService();
         }
@@ -122,7 +129,7 @@ namespace EyeDenticaService
             base.OnStop();
 
             watchdog.Abort();
-
+            logsProcessor.Abort();
             ProcessHandler.CheckAndSKillProcess("Agent");
             ProcessHandler.CheckAndSKillProcess("EyeKeyLoggerP");
             
@@ -136,7 +143,7 @@ namespace EyeDenticaService
         protected override void OnCustomCommand(int command)
         {
             base.OnCustomCommand(command);
-            DataService dataService = new DataService();
+            dataService = new DataService();
 
             switch (command)
             {
